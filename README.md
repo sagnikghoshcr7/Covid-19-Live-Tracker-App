@@ -1,4 +1,4 @@
-# Covid 19 Live Tracker App
+# Covid-19 Live Tracker App
 
 GoI’s app to connect health services with the people of India to fight COVID-19
 
